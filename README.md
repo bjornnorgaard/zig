@@ -1,2 +1,2 @@
-# zig
-Exploring Zig
+# Zig
+Exploring Zig.
